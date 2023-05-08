@@ -1,7 +1,7 @@
 
 ## I'm Abdullah Ali!!
 
-- 🌱 I’m currently learning Dart
+- 🌱 Software Engineer 
 - 📫 How to reach me syedabdullahalee@gmail.com
 - ⚡ Fun fact I write and perform rap songs
 
