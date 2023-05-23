@@ -7,8 +7,7 @@
 
 ### Connect with me:
 
-[![website](./img/instagram-light.svg)](https://www.instagram.com/imabdullahali#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://www.instagram.com/imabdullahali#gh-dark-mode-only)
+https://www.linkedin.com/in/abdullahali06/
 
 ### Languages and Tools:
 
