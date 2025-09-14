@@ -22,11 +22,7 @@ https://www.linkedin.com/in/abdullahali06/
 [<img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />]
 
-
-
-<br />
-<br />
-
 ---
+
 
 
